@@ -152,12 +152,6 @@ Introduces reinforcement learning concepts where an agent learns through interac
 
 ---
 
-## 📄 License
-
-This project is open for educational use. You are free to use and modify the code for learning and academic purposes.
-
----
-
 ## 👨‍💻 Author
 
 **Bhavin Muchhala**  
